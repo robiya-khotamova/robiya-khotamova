@@ -4,7 +4,7 @@ Economics & Finance student at **Sapienza University of Rome**, aiming at **stra
 I use Python to turn business data into decisions.
 
 **Projects**
-- [Booking Performance Analysis](https://github.com/rxtmv/booking-performance-analysis): RevPAR, occupancy and cancellation drivers across 54 short-let bookings (pandas)
+- [Booking Performance Analysis](https://github.com/robiya-khotamova/booking-performance-analysis): RevPAR, occupancy and cancellation drivers across 54 short-let bookings (pandas)
 
 **Tools:** Python · pandas · Excel
 
