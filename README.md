@@ -8,6 +8,6 @@ I use Python to turn business data into decisions.
 
 **Tools:** Python · pandas · Excel
 
-** Background:** remote Property Manager for a Dubai short-term-rental operator (Airbnb & Booking.com operations)
+**Background**: remote Property Manager for a Dubai short-term-rental operator (Airbnb & Booking.com operations)
 
-** Contact:** [LinkedIn](https://linkedin.com/in/robiya-khotamova)
+**Contact**: [LinkedIn](https://linkedin.com/in/robiya-khotamova)
